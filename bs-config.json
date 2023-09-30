@@ -1,0 +1,11 @@
+{
+    "server": {
+      "baseDir": ["./", "./dist"]
+    },
+    "files": ["./dist/**/*.js", "./index.html"],
+    "ghostMode": false,
+    "open": false,
+    "browser": "default",
+    "notify": false
+  }
+  
